@@ -83,6 +83,5 @@ You should now have enough information to put this to practise and brute-force y
 
    Once Hydra finds molly's SSH password (*butterfly*), I logged into the machine as molly using ssh (`ssh molly@10.10.139.250`). I check what's in the current folder (a flag2.txt file) and use the `cat flag2.txt` command to see what's in the file.
 
-   ![screenshot_molly_ssh](room_hydra/screenshots/molly_ssh.png?raw=true)
 
    > THM{c8eeb0468febbadea859baeb33b2541b}
